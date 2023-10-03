@@ -1,6 +1,6 @@
 # Spectre.Console.Extensions.Rider
 
-![Build](https://github.com/nils-a/Spectre.Console.Extensions.Rider/workflows/Build/badge.svg)
+![Build](https://github.com/nils-org/Spectre.Console.Extensions.Rider/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
@@ -21,19 +21,19 @@ This Fancy IntelliJ Platform Plugin is going to be your implementation of the br
 
 This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
 
-To keep everything working, do not remove `<!-- ... -->` sections. 
+To keep everything working, do not remove `<!-- ... -->` sections.
 <!-- Plugin description end -->
 
 ## Installation
 
 - Using the IDE built-in plugin system:
-  
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Spectre.Console.Extensions.Rider"</kbd> >
+
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "spectre-console"</kbd> >
   <kbd>Install</kbd>
-  
+
 - Manually:
 
-  Download the [latest release](https://github.com/nils-a/Spectre.Console.Extensions.Rider/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/nils-org/Spectre.Console.Extensions.Rider/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 

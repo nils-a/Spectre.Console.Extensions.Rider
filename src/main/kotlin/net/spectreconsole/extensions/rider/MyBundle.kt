@@ -1,4 +1,4 @@
-package com.github.nilsa.spectreconsoleextensionsrider
+package net.spectreconsole.extensions.rider
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

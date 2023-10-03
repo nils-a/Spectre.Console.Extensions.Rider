@@ -1,9 +1,9 @@
-package com.github.nilsa.spectreconsoleextensionsrider.services
+package net.spectreconsole.extensions.rider.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.nilsa.spectreconsoleextensionsrider.MyBundle
+import net.spectreconsole.extensions.rider.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

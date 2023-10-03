@@ -1,4 +1,4 @@
-package com.github.nilsa.spectreconsoleextensionsrider.listeners
+package net.spectreconsole.extensions.rider.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

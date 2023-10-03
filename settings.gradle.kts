@@ -1,1 +1,1 @@
-rootProject.name = "Spectre.Console.Extensions.Rider"
+rootProject.name = "spectre-console"

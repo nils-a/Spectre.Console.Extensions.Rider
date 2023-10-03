@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Spectre.Console.Extensions.Rider Changelog
+# spectre-console Changelog
 
 ## [Unreleased]
 ### Added
