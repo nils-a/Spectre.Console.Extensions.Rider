@@ -1,4 +1,4 @@
-package com.github.nilsa.spectreconsoleextensionsrider.toolWindow
+package net.spectreconsole.extensions.rider.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.nilsa.spectreconsoleextensionsrider.MyBundle
-import com.github.nilsa.spectreconsoleextensionsrider.services.MyProjectService
+import net.spectreconsole.extensions.rider.MyBundle
+import net.spectreconsole.extensions.rider.services.MyProjectService
 import javax.swing.JButton
 
 
